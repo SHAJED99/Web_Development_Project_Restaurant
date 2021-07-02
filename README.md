@@ -12,7 +12,7 @@ Using:
 
 Installation:
   1. Download and Extract the file Restaurant.zip.
-  2. Install xampp and open it.
+  2. Install xampp and open it and run MySQL.
   3. Open MySQL admin page by clicking the MySQL admin button in the xampp.
   4. Click import button in the admin page.
   5. Choose the downloaded restaurant.sql file and press Go.
